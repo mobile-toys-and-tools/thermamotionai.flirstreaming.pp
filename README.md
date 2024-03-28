@@ -1,7 +1,7 @@
 # thermamotion.flirstreaming.pp
 ![This is an image](ic_launcher.png)
 
-Last Updated: 07/25/2023
+Last Updated: 28/03/2024
 
 # Privacy Policy for Mobile Application
 This privacy policy governs your use of the software application **ThermaMotion** that was
@@ -48,7 +48,7 @@ device.
 No. Even aggregated, anonymized data is not periodically transmitted to external services.
 
 # Privacy Policy Changes
-This Privacy Policy may be updated from time to time for any reason. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes. We will also change the “Last Updated” date at the beginning of this Privacy Policy. Any changes we make to our Privacy Policy are effective as of this Last Updated date and replace any prior Privacy Policies.
+This Privacy Policy may be updated from time to time for any reason. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes. We will also change the “Policy Document Number” at the beginning of this Privacy Policy. Any changes we make to our Privacy Policy are effective as of this number and replace any prior Privacy Policies. You can check the history of this policy by clicking [here](https://drive.google.com/drive/folders/12TLZBf6Y7g59wb6LmjXfheGmBPZI_ARk?usp=drive_link).
 
 # Contact us
 If you have any questions regarding privacy while using the application, or have questions about our practices, please contact us via email at [mobile.toys.tools@gmail.com](mobile.toys.tools@gmail.com).
